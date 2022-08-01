@@ -1,0 +1,11 @@
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\bin\Debug\Otomatik Kapatma.exe.config
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\bin\Debug\Otomatik Kapatma.exe
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\bin\Debug\Otomatik Kapatma.pdb
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik Kapatma.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik Kapatma.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik_Kapatma.Form1.resources
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik_Kapatma.Properties.Resources.resources
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik Kapatma.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik Kapatma.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik Kapatma.exe
+C:\Users\burak\source\repos\Otomatik Kapatma\Otomatik Kapatma\obj\Debug\Otomatik Kapatma.pdb
